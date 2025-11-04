@@ -19,8 +19,9 @@ SafeSurf is a powerful Chrome extension that acts as your personal security anal
 <br>
 
 > [\!NOTE]
-> **Insert your GIF here\!**
-> A short screen recording of the extension working (e.g., showing a warning on a bad site) will look amazing here.
+> **![Uploading image.png…]()
+\!**
+> 
 >
 > `![SafeSurf Demo](link-to-your.gif)`
 
