@@ -1,10 +1,3 @@
-Here is a "cool and sexy" GitHub README file for your `SafeSurf` project.
-
-It's designed to be engaging, professional, and make people excited to use and contribute to your extension. Just copy, paste, and replace the placeholders\!
-
------
-
-\<div align="center"\>
 
 # 🛡️ SafeSurf
 
