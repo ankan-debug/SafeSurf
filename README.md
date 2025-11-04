@@ -2,9 +2,9 @@
 
 Surf the web with confidence. SafeSurf is your real-time, multi-layered shield against phishing and online threats.
 
-Built by Team Cyber Titans (Dev: Ankan) for the [Your Hackathon Name Here].
+Built by Team Cyber Titans for the [Your Hackathon Name Here].
 
-(This is a placeholder: replace this with a GIF of your extension working!)
+(This is a placeholder: replace this with a GIF of your extension working! Use a tool like GIPHY Capture to record your screen.)
 
 ✨ Core Features
 
@@ -91,6 +91,12 @@ CSS3 (Plain CSS, styled to look modern)
 Chrome Extension API (Manifest V3)
 
 APIs: VirusTotal, WhoisXML
+
+🤝 Meet the Team
+
+Ankan - Developer (@ankan-debug)
+
+(Feel free to add links to your LinkedIn, etc.)
 
 📄 License
 
