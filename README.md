@@ -115,7 +115,7 @@ Found a bug or have a feature request? [Open an issue\!](https://www.google.com/
 
 ## 📄 License
 
-This project is licensed under the **Apache 2.0 License** - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the **Apache 2.0 License** - see the LICENSE file for details.
 
 -----
 
